@@ -1,3 +1,0 @@
-/home/igor/GTK_Examples/gtk-3.24.25-examples/examples/application9/build/CMakeFiles/rebuild_cache.dir
-/home/igor/GTK_Examples/gtk-3.24.25-examples/examples/application9/build/CMakeFiles/edit_cache.dir
-/home/igor/GTK_Examples/gtk-3.24.25-examples/examples/application9/build/CMakeFiles/application9.dir
